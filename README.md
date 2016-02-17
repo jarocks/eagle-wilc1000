@@ -1,2 +1,2 @@
-# eagle-wilc1000
-WILC1000-MR110PA Eagle Part
+# WILC1000 Eagle Library
+WILC1000-MR110PA WiFi Module
